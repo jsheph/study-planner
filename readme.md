@@ -14,7 +14,7 @@ I am in no way affiliated with Professor Messer LLC. I do however highly recomme
 
 ## How to Use
 
-1. **Setup**: Ensure you have Python and `yt-dlp` installed on your system. If you don't know how to do this, reddit is a great resource. 
+1. **Setup**: Ensure you have [Python](https://www.python.org) and [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed on your system. If you don't know how to do this, reddit is a great resource. 
 2. **Running the Script**: Execute the script and provide the YouTube playlist URL of interest when prompted.
 3. **Input the Start Date**: Specify your desired start date for the study schedule in MM/DD/YYYY format.
 4. **Review Your Schedule**: The script will output a `.txt` file named after the playlist, containing your personalized study schedule.
