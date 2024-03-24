@@ -13,6 +13,8 @@ Consider **Professor Messer's "How to Pass Your N10-008 Network+ Exam"** YouTube
 
 I am in no way affiliated with Professor Messer LLC. I do however highly recommend you watch Professor Messer's content directly on YouTube and support what they do by purchasing study materials from their site directly. For more information on their offerings, visit [Professor Messer's website](https://www.professormesser.com). 
 
+This python script was developed with the assistance of ChatGPT.
+
 ## How to Use
 
 1. **Setup**: Ensure you have [Python](https://www.python.org) and [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed on your system. If you don't know how to do this, reddit is a great resource. 
