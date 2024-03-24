@@ -1,16 +1,16 @@
 # Create a Study Planner from a YouTube Playlist
 
-Studying for exams can be a daunting task, especially when you're not sure where to start. This Python script simplifies the process by organizing your study sessions. It takes a YouTube playlist URL and schedules 1 hour of video content for you to watch each day. This way, you can focus on learning without the stress of planning.
+Studying for exams can be a daunting task, especially when you're not sure where to start. This Python script simplifies the process by organizing the study sessions for you. It takes a YouTube playlist URL and isolates 1 hour of video content for you to watch each day. This way, you can focus your energy on what needs to be done rather than when you need to do it.
 
 ## Example Use Case
 
-Consider **Professor Messer's "How to Pass Your N10-008 Network+ Exam"** YouTube playlist. Using this script, you can structure your study plan to complete his comprehensive course in just 16 days, dedicating only 1 hour per day.
+Consider **Professor Messer's "How to Pass Your N10-008 Network+ Exam"** YouTube playlist. This is a playlist of 93 informative videos ranging from 3-21 minutes per video. Using this script, you can structure a study plan to complete his comprehensive course in just 16 days, at only 1 hour per day.
 ![Network+ Study Guide](https://github.com/jsheph/study-planner/blob/main/network%2B.jpg?raw=true "Network+ Study Guide")
 
 
 ## Disclaimer
 
-I am in no way affiliated with Professor Messer LLC. I do however highly recommend you watch Professor Messer's content directly on YouTube and supporitng his content by purchasing study materials from his site directly. For more information on their offerings, visit [Professor Messer's website](https://www.professormesser.com). 
+I am in no way affiliated with Professor Messer LLC. I do however highly recommend you watch Professor Messer's content directly on YouTube and support what they do by purchasing study materials from their site directly. For more information on their offerings, visit [Professor Messer's website](https://www.professormesser.com). 
 
 ## How to Use
 
