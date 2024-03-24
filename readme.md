@@ -15,7 +15,7 @@ Please note, while this script was inspired by the effectiveness of study materi
 ## How to Use
 
 1. **Setup**: Ensure you have Python and `yt-dlp` installed on your system. If you don't know how to do this, reddit is a great resource. 
-2. **Running the Script**: Execute the script by providing the YouTube playlist URL when prompted.
+2. **Running the Script**: Execute the script and provide the YouTube playlist URL of interest when prompted.
 3. **Input the Start Date**: Specify your desired start date for the study schedule in MM/DD/YYYY format.
 4. **Review Your Schedule**: The script will output a `.txt` file named after the playlist, containing your personalized study schedule.
 5. ![Script Output Example](https://github.com/jsheph/study-planner/blob/main/output.png?raw=true "Script Output Example")
