@@ -1,4 +1,4 @@
-# YouTube Playlist Study Scheduler
+# Create a Study Planner from a YouTube Playlist
 
 Studying for exams can be a daunting task, especially when you're not sure where to start. This Python script simplifies the process by organizing your study sessions. It takes a YouTube playlist URL and schedules 1 hour of video content for you to watch each day. This way, you can focus on learning without the stress of planning.
 
