@@ -10,7 +10,7 @@ Consider **Professor Messer's "How to Pass Your N10-008 Network+ Exam"** YouTube
 
 ## Disclaimer
 
-Please note, while this script was inspired by the effectiveness of study materials from Professor Messer, I am in no way affiliated with Professor Messer LLC. However, I highly recommended for those pursuing IT certifications. For more information on their offerings, visit [Professor Messer's website](https://www.professormesser.com).
+I am in no way affiliated with Professor Messer LLC. I do however highly recommend you watch Professor Messer's content directly on YouTube and supporitng his content by purchasing study materials from his site directly. For more information on their offerings, visit [Professor Messer's website](https://www.professormesser.com). 
 
 ## How to Use
 
