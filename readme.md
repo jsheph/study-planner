@@ -5,6 +5,7 @@ Studying for exams can be a daunting task, especially when you're not sure where
 ## Example Use Case
 
 Consider **Professor Messer's "How to Pass Your N10-008 Network+ Exam"** YouTube playlist. This is a playlist of 93 informative videos ranging from 3-21 minutes per video. Using this script, you can structure a study plan to complete his comprehensive course in just 16 days, at only 1 hour per day.
+
 ![Network+ Study Guide](https://github.com/jsheph/study-planner/blob/main/network%2B.jpg?raw=true "Network+ Study Guide")
 
 
@@ -18,7 +19,8 @@ I am in no way affiliated with Professor Messer LLC. I do however highly recomme
 2. **Running the Script**: Execute the script and provide the YouTube playlist URL of interest when prompted.
 3. **Input the Start Date**: Specify your desired start date for the study schedule in MM/DD/YYYY format.
 4. **Review Your Schedule**: The script will output a `.txt` file named after the playlist, containing your personalized study schedule.
-5. ![Script Output Example](https://github.com/jsheph/study-planner/blob/main/output.png?raw=true "Script Output Example")
+
+![Script Output Example](https://github.com/jsheph/study-planner/blob/main/output.png?raw=true "Script Output Example")
 
 
 ## Final Remarks
